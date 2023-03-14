@@ -1,1 +1,1 @@
-Aulas de Statistics for Data Science
+Aulas de Statistics for Data Science and Machine Learning
